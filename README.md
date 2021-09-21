@@ -1,5 +1,5 @@
 # Life-Expectancy-and-GDP-
- Analyze GDP and life expectancy data from the World Health Organization and World Bank
+ Analyze GDP and life expectancy data from the World Health Organization and World Bank. GDP is Gross Domestic Product and is a meausurement of a country's overall economic output.
 
 ## Some questions I aim to answer are:
  Has life expectancy increased over time in the six nations?
