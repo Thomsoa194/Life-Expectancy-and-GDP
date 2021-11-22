@@ -12,6 +12,6 @@
  With the USA having the largest Gross Domestic Product, China's will continue to grow at a faster rate.
  Life expectancy has increased for all countries between 2010 and 2015.
  As an average over the period of 2000 and 2015, China's GDP is roughly 40 percent of the USA's GDP.
- Zimbabwe's life expectancy is growing exponentially, although it is currently on average 50 years old. Whilst Germany has an average GDP of just 79 years old.
+ Zimbabwe's life expectancy is growing exponentially, although it is currently on average 50 years old. Whilst Germany has an average life expectancy of just 79 years old.
  There is a strong association between Life expectancy and GDP, they have a positive covariance.
  The distribution of Zimbabwe's life expectancy is enormous. Mexico has the lowest distribution.
