@@ -14,4 +14,4 @@
  As an average over the period of 2000 and 2015, China's GDP is roughly 40 percent of the USA's GDP.
  Zimbabwe's life expectancy is growing exponentially, although it is currently on average 50 years old. Whilst Germany has an average life expectancy of just 79 years old.
  There is a strong association between Life expectancy and GDP, they have a positive covariance.
- The distribution of Zimbabwe's life expectancy is enormous. Mexico has the lowest distribution.
+ The distribution of Zimbabwe's life expectancy is enormous. Mexico has the lowest distribution. This means that in Mexico people's life expectancy tends to fall in a smaller range of years. 
